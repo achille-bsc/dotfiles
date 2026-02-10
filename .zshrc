@@ -19,7 +19,7 @@ alias lm='ls -m'
 alias lr='ls -R'
 
 # git
-alias gcl='git clone --depth 1'
+alias gcl='git clone'
 alias gsub='git submodule init && git submodule update'
 alias gi='git init'
 alias ga='git add'
